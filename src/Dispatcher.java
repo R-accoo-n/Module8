@@ -20,5 +20,6 @@ public class Dispatcher {
         shapes.add(new Circle());
 
         op.listInfo(shapes);
+
     }
 }
