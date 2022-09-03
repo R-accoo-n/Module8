@@ -18,8 +18,6 @@ public class Dispatcher {
         shapes.add(new Diamond());
         shapes.add(new Oval());
         shapes.add(new Circle());
-
         op.listInfo(shapes);
-
     }
 }
