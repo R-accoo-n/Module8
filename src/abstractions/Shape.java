@@ -1,3 +1,5 @@
+package abstractions;
+
 public interface Shape {
-    void giveInfo();
+
 }
